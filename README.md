@@ -37,7 +37,7 @@ A procedural dungeon map generator for **Roblox**, written in Lua. Generates a w
 ## Requirements
 
 - **Roblox Studio**
-- A `ServerStorage` folder named **`TileTemplatesMesh`** containing all tile and structure model templates
+- A `ServerStorage` folder named **`TileTemplatesMesh`** containing all tile and structure model templates, preferably as a single mesh (Using Blender to merge and reduce triangle count for optimisation)
 - This script placed inside a `Script` object in `ServerScriptService`
 
 ---
