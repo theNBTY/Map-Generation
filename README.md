@@ -83,7 +83,7 @@ The bounding box of all placed tiles is calculated, expanded by `FINAL_PADDING`,
 
 ## Tile Types
 
-### Walkable Path Tiles
+### Walkable Path Tiles (With reagard to dungeon-crawler-esque tile-based games)
 Randomly placed during maze generation.
 
 | Tile | Weight | Walkable |
